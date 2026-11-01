@@ -1,0 +1,35 @@
+# Core ML / numeric (3.13-compatible)
+scikit-learn>=1.6.0
+numpy>=2.1.0
+scipy>=1.14.1
+rank-bm25==0.2.2
+gensim>=4.4.0
+
+# Deep learning / embeddings
+torch>=2.5.0
+torchvision>=0.20.0
+transformers>=4.41.0
+sentence-transformers>=3.0.0
+datasets>=2.19.0
+pillow>=10.2.0
+mteb
+ipykernel
+
+# LangChain
+langchain
+langchain-community
+langchain-google-genai
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-anthropic
+langchain-ollama
+
+# Document loading / data
+pypdf
+python-docx
+docx2txt
+pandas
+openpyxl
+beautifulsoup4
+unstructured
